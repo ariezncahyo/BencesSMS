@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8887b94a0a58ac98d4fe5f53c20d911c4129ac54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\33ce3b7ce91704631c5a54f3d117cb130fb733c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_bed0e754619412ad237c4fe3ade14bec489e0845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\d85c76a56991c2ecf1e0cf2dcf3d0c7bda0e2d9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_ed6982ee9864547725df5481544341683b2be08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\ca1ecab7c37aeea30993f7d6f97e9566184c026b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_527d5dbb7dddb548a3c8496f3d7e9123e237a3bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\e0502ac8aa012d92af6d12cc3390cdb1dc23a79d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_972d45d5e24ee1eb4b3ce2304fa3a1cbd249e54b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\bf5d614fb905a40e76187d1d0645caa8df40aba0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_74039980e1ab1c13d474bbd3446f2319497ad41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.gradle\caches\modules-2\files-2.1\org.nanohttpd\nanohttpd\2.3.1\a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c\nanohttpd-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\nanohttpd-2.3.1_34472dc69c1b35d31523117cda33ec2080bf4c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\4c691572a40df8e8faa32feae1966951170635ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_b78a19d0d4fede83fae38f68edc147521083e536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\420c4116bda3f98b13d0cd223a536188ea647ff5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_f41ed43049ec9e440539450668539049951ae614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\8e8678ed9f2b33e80f5b06edb6e8bf06e427b1cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_abc069af74cc2cc364d7661bc4b5b591f220e870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\ca45b5c195f037c34c9e25e9c533cad446129f08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_c4c786789d1b4dd49e7f4cf950c316fcd2253bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\d3deb0f4ddbe811f8a7194eb50e5d80b74198343\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_b96296826f085d87d181fcd992541366fdbbdaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\831cf778f9209bbc6d70c4e0e4c426cd28e4297a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_75caeb58698058a792de77978a99fa350c6342d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\3d7dd3d80fc16c7ab5dbfd3b9ceeb23d0874d233\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_692f993a917ae70a5b840dbac5ad7a8a47d596e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\876e9feb358a5422a34704cf68eed84c1b0a092d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_636b77206cd47c3120e8c434bd898576e45cf7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anashidayat\.android\build-cache\b68c6f42de67692192ff1a2a72368aeb4ca47307\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Data\programgarapan\Java\AndroidStudioWorkspace\BencesSMS\app\build\intermediates\pre-dexed\debug\classes_d52e31f75f44f9a4ee6a2e9e3997075cdc814fb4.jar" />
+    </item>
+
+</items>
