@@ -1,0 +1,36 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.anashidayat.kirimsms.AndroidSetFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <EditText
+        android:id="@+id/edtport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button"
+        android:layout_marginTop="41dp"
+        android:ems="10"
+        android:hint="Port Android"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/edturl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="URL Report(Tanpa HTTP)"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SET" />
+
+</LinearLayout>
